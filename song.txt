@@ -9,3 +9,5 @@ That wasn't no DJ, that was hazy cosmic jive
 
 Creating a second branch and adding
 two commits to it
+
+Whoops, here is a second commit
